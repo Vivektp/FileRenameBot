@@ -75,7 +75,7 @@ async def start(bot, update):
                 ],
                 [
                     InlineKeyboardButton('Other Bots', url='https://t.me/VKPROJECTS'),
-                    InlineKeyboardButton('Source', url='https://t.me//VKPROJECTS)
+                    InlineKeyboardButton('Source', url='https://t.me/VKPROJECTS)
                 ]
             ]
         ),
