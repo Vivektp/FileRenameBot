@@ -70,12 +70,12 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Channel', url='https://t.me/VKPROJECTS'),
-                    InlineKeyboardButton('Feedback', url='https://t.me/VKPBOTS')
+                    InlineKeyboardButton('⭕️ Channel ⭕️', url='https://t.me/VKPROJECTS'),
+                    InlineKeyboardButton('⭕️ GROUP ⭕️', url='https://t.me/VKPBOTS')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/VKPROJECTS'),
-                    InlineKeyboardButton('Source', url='https://t.me/VKPROJECTS)
+                    InlineKeyboardButton('⭕️ Other Bots ⭕️', url='https://t.me/VKPROJECTS'),
+                    InlineKeyboardButton('⭕️ HELP SUPPORT ⭕️', url='https://t.me/VkBotsSupportBot)
                 ]
             ]
         ),
